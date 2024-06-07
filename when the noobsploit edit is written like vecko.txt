@@ -8,19 +8,19 @@ local AllowTeleportsToNoobSploitHub = false
 function mods()
 end
 
-local AntiGear = True
-local anticrashVG = True 
+local AntiGear = true
+local anticrashVG = true 
 local antijailgearban = true -- fix the jail gear (Mostly)
 local antigrayscale = true -- If it finds the grayscale it removes it for you
-local antikill = True -- anti death? idk xdfixbp
-local antijail = True -- Remove your jail.
-local mymusiconly = True -- Force your music onto peoples ears
-local mymusiconly_ID = 6823597327 -- mymusiconly song ID
+local antikill = true -- anti death? idk xdfixbp
+local antijail = true -- Remove your jail.
+local mymusiconly = true
+local mymusiconly_ID = 6823597327
 local antilogs = true -- Clears logs when someone opens it!
-local Superlogs = True -- Every chat /w /t /c /e etc will print into console
+local Superlogs = true -- Every chat /w /t /c /e etc will print into console
 local everyonecommands = false 
 local padsEnforcement = false 
-local antiattach = True 
+local antiattach = true 
 local antivoid = true 
 
 
@@ -30,7 +30,7 @@ local fkick = false
 local fkickmsg = ";kick "
 local fkick_keybind = "k"
 
-local antikick = True -- enabled for protection xd
+local antikick = true -- enabled for protection xd
 local antikick_keybind = "p"
 
 local house_keybind = "n"
