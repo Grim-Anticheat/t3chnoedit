@@ -8,18 +8,18 @@ local AllowTeleportsToNoobSploitHub = false
 function mods()
 end
 
-local AntiGear = true
+local AntiGear = false
 local anticrashVG = true 
 local antijailgearban = true -- fix the jail gear (Mostly)
 local antigrayscale = true -- If it finds the grayscale it removes it for you
 local antikill = true -- anti death? idk xdfixbp
 local antijail = true -- Remove your jail.
-local mymusiconly = true
+local mymusiconly = false
 local mymusiconly_ID = 6823597327
 local antilogs = true -- Clears logs when someone opens it!
 local Superlogs = true -- Every chat /w /t /c /e etc will print into console
-local everyonecommands = false 
-local padsEnforcement = false 
+local everyonecommands = true
+local padsEnforcement = true
 local antiattach = true 
 local antivoid = true 
 
